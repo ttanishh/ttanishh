@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Tanish Panchal"/>
+  <img src="./assets/banner.svg" width="100%" alt="Tanish Panchal — Software Engineer"/>
 </div>
 
 <br/>
@@ -53,11 +53,15 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ttanishh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=9CA3AF&rank_icon=github&cache_seconds=1800" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=ttanishh&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=FF6B35&currStreakLabel=F5A623&sideLabels=9CA3AF&dates=4B5563&sideNums=E5E7EB" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ttanishh&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=FF6B35&currStreakLabel=F5A623&sideLabels=9CA3AF&dates=4B5563&sideNums=E5E7EB&cache_seconds=1800" width="100%"/>
+<!-- Static stat badges — always visible, no external API failures -->
+![Contributions](https://img.shields.io/badge/Contributions-238+-F5A623?style=flat-square&logo=github&logoColor=white)
+![Internships](https://img.shields.io/badge/Internships-3_(incl._Apple)-0d1117?style=flat-square&logo=apple&logoColor=F5A623)
+![CGPA](https://img.shields.io/badge/CGPA-8.10%2F10-0d1117?style=flat-square&logo=academia&logoColor=39D98A)
+![Hackathons](https://img.shields.io/badge/Hackathons-5_(2_wins)-0d1117?style=flat-square&logo=trophy&logoColor=F5A623)
 
 </td>
 </tr>
@@ -81,7 +85,7 @@
 <div align="center">
 
 ![Apple](https://img.shields.io/badge/Apple-IS%26T_Intern-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![SVNIT](https://img.shields.io/badge/SVNIT_Surat-CSE_'26_·_CGPA_8.10-1a1f35?style=for-the-badge&logoColor=F5A623)
+![SVNIT](https://img.shields.io/badge/SVNIT_Surat-CSE_'26_·_CGPA_8.10-1a1f35?style=for-the-badge)
 
 </div>
 
@@ -89,81 +93,92 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📊 Lead Scoring System
-**Careerline Education Foundation** &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul_2025-111827?style=flat-square)
+**Careerline Education Foundation**
+
+![Jul 2025](https://img.shields.io/badge/Jul_2025-111827?style=flat-square)
 
 ```
 XGBoost · FastAPI · Streamlit
 Feature Engineering · CRM Analytics
 ```
 
-- **+35%** lead conversion rate
-- 500+ intake forms → behavior-based features
-- Interactive dashboard with score explainability
+✅ **+35%** lead conversion rate  
+✅ 500+ intake forms → behavior features  
+✅ Interactive dashboard + explainability  
 
 [![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=F5A623)](https://github.com/ttanishh)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📧 AI Email Assistant
-**Chrome Extension** &nbsp; ![Aug 2025](https://img.shields.io/badge/Aug_2025-111827?style=flat-square)
+**Chrome Extension**
+
+![Aug 2025](https://img.shields.io/badge/Aug_2025-111827?style=flat-square)
 
 ```
-Java Spring Boot · Google Gemini API
-Chrome Extension API · Maven · REST
+Java Spring Boot · Gemini API
+Chrome Extension API · Maven
 ```
 
-- **< 2s** AI-powered reply generation
-- One-click Gmail integration
-- Context-aware via Gemini API
+✅ **< 2s** AI-powered reply generation  
+✅ One-click Gmail integration  
+✅ Context-aware via Gemini API  
 
-[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=F5A623)](https://github.com/ttanishh)&nbsp;
-[![Chrome](https://img.shields.io/badge/Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/ttanishh)
+[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=F5A623)](https://github.com/ttanishh)&nbsp;[![Chrome](https://img.shields.io/badge/Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/ttanishh)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🔐 Kavach — Crime Reporting
-**Blockchain · ML · Maps** &nbsp; ![Apr 2025](https://img.shields.io/badge/Apr_2025-111827?style=flat-square)
+### 🔐 Kavach
+**Blockchain Crime Reporting**
+
+![Apr 2025](https://img.shields.io/badge/Apr_2025-111827?style=flat-square)
 
 ```
 Next.js · Node.js · MongoDB
 Smart Contracts · ML Microservice
 ```
 
-- Real-time map-based incident reporting
-- Smart contracts for tamper-proof data
-- ML prediction microservice integrated
+✅ Real-time map-based reporting  
+✅ Smart contracts for immutability  
+✅ ML prediction microservice  
 
 [![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=F5A623)](https://github.com/ttanishh)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 📦 Logistics Dashboard @ UPL
-**Production System** &nbsp; ![May 2025](https://img.shields.io/badge/May_2025-111827?style=flat-square)
+### 📦 Logistics Dashboard
+**UPL — Production System**
+
+![May 2025](https://img.shields.io/badge/May_2025-111827?style=flat-square)
 
 ```
-Python · SQL · Power BI
-ARIMA · LSTM · SAP · ETL
+Python · Power BI · ARIMA · LSTM
+SAP Integration · ETL Pipelines
 ```
 
-- **10GB+/day** ETL · **99.9%** uptime
-- **12% cost reduction** via anomaly detection
-- **500+ users** across business units
+✅ **10GB+/day** ETL · **99.9%** uptime  
+✅ **12% cost reduction** via anomaly detection  
+✅ **500+ users** across business units  
 
-> *Production — not a side project.*
+> *Not a side project. Production.*
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -220,36 +235,41 @@ ARIMA · LSTM · SAP · ETL
 
 ## 💼 Experience
 
-| | Role | Company | Highlight |
+<div align="center">
+
+| | Role | Company | Impact |
 |:---:|:---|:---|:---|
-| 🍎 | **IS&T Intern** | Apple *(Jan–Jun 2026)* | Supply Chain workflow automation at global scale |
-| 📊 | **NextGen Software Intern** | UPL *(May–Jul 2025)* | 10GB+/day ETL · 12% cost reduction · 500+ users |
+| 🍎 | **IS&T Intern** | Apple *(Jan–Jun 2026)* | Supply chain workflow automation · global scale |
+| 📊 | **NextGen Software Intern** | UPL *(May–Jul 2025)* | 10GB+/day ETL · 99.9% uptime · 12% cost cut |
 | 🤖 | **ML Intern** | Sahana Systems *(Jun–Aug 2024)* | CNN classifier · 85% accuracy · 10K+ records |
+
+</div>
 
 ---
 
 ## 👥 Leadership
+
+<div align="center">
 
 | Role | Org | Duration |
 |:---|:---|:---|
 | 🌐 **Community Lead** | Google Developer Student Clubs, SVNIT | 2024 – 2025 |
 | 🎓 **Mentor & Lead Coordinator** | Nexus — Dept. of CSE, SVNIT | 2023 – 2025 |
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttanishh&theme=github-compact&bg_color=0d1117&color=F5A623&line=F5A623&point=ffffff&area=true&hide_border=true&area_color=F5A62318" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttanishh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=9CA3AF&cache_seconds=1800" width="38%"/>
-
 </div>
 
 ---
 
+## 🌐 Connect
+
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F5A623)](https://tanish2311.github.io)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish2311)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ttanishh)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpanchal2311@gmail.com)
+
+<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -257,7 +277,5 @@ ARIMA · LSTM · SAP · ETL
 ║             Let's build something at scale.                  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-**[+91-8866182303](tel:+918866182303) · [tanishpanchal2311@gmail.com](mailto:tanishpanchal2311@gmail.com)**
 
 </div>
