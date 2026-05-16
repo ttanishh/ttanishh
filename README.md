@@ -1,21 +1,133 @@
-# 💫 About Me:
-# 💫 About Me<br><br>Hey there! I'm Tanish, a curious and motivated Computer Science and Engineering undergraduate who enjoys building meaningful tech and exploring creative problem-solving. I'm passionate about turning ideas into impactful solutions and constantly expanding my skillset through hands-on projects and collaborations.<br><br>💡 **Areas of Interest**  <br>- 🤖 Artificial Intelligence & Machine Learning  <br>- 🌐 Web & Software Development  <br>- 🧠 Data Processing & Optimization  <br>- 🕹️ Interactive Applications & Digital Experiences  <br>- 🧩 Problem Solving & Algorithmic Thinking  <br><br>I enjoy working on projects that challenge me to think critically, learn continuously, and create with purpose. Let's build something amazing!<br><br>🧪 **Recent Highlights**  <br>- 🎯 Contributed to building intelligent systems that improve decision-making using machine learning.  <br>- 🔍 Applied AI concepts in practical settings during internship experiences.  <br>- 🚀 Built projects around modern tech trends including Web3, event-driven systems, and smart automation.<br><br>🔧 **Technical Skills**  <br>Languages: `Python` | `C++` | `C#` | `JavaScript` | `TypeScript` | `SQL`  <br>Frameworks: `React` | `Next.js` | `Flask` | `.NET` | `Node.js`  <br>Databases: `MongoDB` | `PostgreSQL` | `MySQL` | `Firebase`  <br>ML Stack: `Pandas` | `NumPy` | `Scikit-learn` | `Keras` | `PyTorch` | `TensorFlow`  <br>Tools: `Docker` | `Redis` | `Figma` | `Unity` | `Git` | `Mapbox` | `Google Cloud`<br><br>🌱 **Currently Exploring**  <br>- 🧠 Applied AI in smart systems  <br>- 🛠️ Blockchain for real-world use cases  <br>- 📊 Event-driven microservices and cloud-native applications<br><br>📚 Beyond the keyboard, I'm into reading, mentoring juniors, and trying out new cuisines. I enjoy working on ideas that blend innovation, social impact, and fun!<br><br>---<br><br>## 🌐 Socials:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish2311/)<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish2311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishpanchal2311@gmail.com) 
+# Tanish Panchal
+### SDE · IS&T Intern @ Apple · SVNIT Surat '26
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ttanishh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ttanishh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttanishh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanish2311.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish2311)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ttanishh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpanchal2311@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ttanishh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+> whoami
+  Tanish Panchal — building systems that scale.
+  Currently: Apple IS&T, Supply Chain Innovation · Hyderabad
+  Target: SDE-1 @ a product company that ships fast and thinks deep.
+```
+
+---
+
+## ⚡ What I'm working on
+
+- 🍎 **@ Apple** — Optimizing demand workflows for Global Service Supply Management, reducing manual overhead across international ops
+- 🔨 **Building** — A multi-threaded web server in Java (proving CS fundamentals, not just framework usage)
+- 📐 **Studying** — LLD: Design Patterns (Observer, Strategy, Factory) + System Design at scale
+- 🎯 **Targeting** — SDE-1 roles in Backend / Full-Stack at high-growth product companies (₹15–25 LPA)
+
+---
+
+## 🏗️ Projects That Shipped
+
+### [Lead Scoring System — Careerline Education Foundation](https://github.com/ttanishh)
+> `XGBoost · FastAPI · Streamlit · Feature Engineering · CRM Analytics`
+
+Deployed a lead scoring engine that **improved conversion rates by 35%**. Built behavior-based features from 500+ intake forms via custom pipelines using Feature-engine. Interactive Streamlit dashboard with lead segmentation and score explainability.
+
+---
+
+### [AI-Powered Email Assistant — Chrome Extension](https://github.com/ttanishh)
+> `Java Spring Boot · Google Gemini API · Chrome Extension API · Maven`
+
+Chrome extension with a Spring Boot backend that generates context-aware email replies using Gemini API. **Sub-2 second response times**, seamless Gmail integration via RESTful architecture, one-click AI reply generation.
+
+---
+
+### [Kavach — Blockchain Crime Reporting System](https://github.com/ttanishh)
+> `Next.js · Node.js · MongoDB · Blockchain · ML`
+
+Full-stack, map-based platform for real-time incident reporting with an integrated ML prediction microservice. Smart contracts for data immutability — ensuring system integrity and tamper-proof data persistence.
+
+---
+
+## 💼 Experience
+
+| | Role | Company | Impact |
+|---|---|---|---|
+| 🍎 | **IS&T Intern** | Apple | Supply Chain workflow automation — GSSM global users |
+| 📊 | **NextGen Software Intern** | UPL (United Phosphorus) | 10GB+/day ETL · 99.9% uptime · 12% cost reduction |
+| 🤖 | **ML Intern** | Sahana Systems | CNN sentiment classifier · 85% accuracy · 10K+ records |
+
+---
+
+## 🛠️ Tech Stack
+
+```python
+languages   = ["Python", "Java", "JavaScript", "C++", "SQL"]
+backend     = ["Spring Boot", "FastAPI", "Node.js", "Kafka"]
+frontend    = ["React.js", "Next.js", "Streamlit"]
+ml          = ["PyTorch", "XGBoost", "ARIMA", "LSTM", "Scikit-learn"]
+databases   = ["MySQL", "MongoDB", "NoSQL"]
+devops      = ["Docker", "Jenkins", "ETL Pipelines", "Power BI"]
+blockchain  = ["Smart Contracts", "Ethereum"]
+cs_core     = ["DSA", "LLD", "System Design", "OS", "DBMS", "Networks", "OOP"]
+```
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **GDSC Ideathon** — 1st place out of 20 teams (2023)
+- 🥉 **Mindbend Webathon** — 3rd place out of 50+ teams (2024)
+- 🎖️ **Odoo × Mindbend Hackathon** — Finalist, 50+ teams (2025)
+- 🎖️ **GDSC Hack The Tank** — Finalist, 30+ teams (2024)
+- 🔐 **Capture The Flag (Cybersecurity)** — Top 7 out of 50+ teams (2025)
+
+---
+
+## 👥 Leadership
+
+- **Community Lead** — Google Developer Student Clubs, SVNIT Surat *(2024–2025)*
+- **Mentor & Lead Coordinator** — Nexus, Dept. of CSE, SVNIT Surat *(2023–2025)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ttanishh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=cdd6f0&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttanishh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f5a623&text_color=cdd6f0"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ttanishh&theme=dark&hide_border=true&background=0d1117&ring=f5a623&fire=f5a623&currStreakLabel=f5a623)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering** · CGPA: **8.10 / 10**
+Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat · *2022–2026*
+
+---
+
+<div align="center">
+
+**Open to SDE-1 opportunities — Backend, Full-Stack**
+**Graduating June 2026 · Based in India · Relocate anywhere**
+
+`Let's build something at scale.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
